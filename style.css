@@ -1,0 +1,31 @@
+body{
+background-image: url("iron-man.jpg");
+max-width: 110%;
+    height: auto;
+    opacity: 0.7;
+   filter: alpha(opacity=50);
+}
+
+.navbar-header {
+  max-width: 80%;
+}
+
+.form-control {
+margin-left: 430px;
+
+}
+
+.form-group {
+
+}
+
+.navbar h1 {
+  font-size: 40px;
+  font-style: bold;
+  font-family:arial;
+  color:white;
+}
+
+.container-fluid {
+background-color: black;
+}
