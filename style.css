@@ -2,9 +2,9 @@ body{
 background-image: url("iron-man.jpg");
 max-width: 110%;
     height: auto;
-    opacity: 0.7;
-   filter: alpha(opacity=50);
+       filter: alpha(opacity=50);
 }
+body
 
 .navbar-header {
   max-width: 80%;
@@ -27,5 +27,29 @@ margin-left: 430px;
 }
 
 .container-fluid {
-background-color: black;
+background-color:transparent;
+}
+
+#main-img  {
+  height: 300px;
+  width: 300px;
+  border-style: solid;
+  border-width: thin;
+  border-color: black;
+  border-radius: 100%
+
+}
+
+img#main-img {
+  opacity: 1;
+  filter: alpha(opacity=50);
+}
+
+.main-nav {
+
+    text-align: center;
+    margin-top: 200px;
+
+
+
 }
