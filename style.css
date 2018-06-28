@@ -1,31 +1,19 @@
 body{
 background-image: url("iron-man.jpg");
-max-width: 120%;
+
+margin: 0;
     height: auto;
        filter: alpha(opacity=50);
 }
 body
 
-.jumobtron {
-    color: white;
-height: 30vh;
-margin-bottom: 20px;
-}
-
 .Main-Section {
 
-}
-.navbar-header {
-  max-width: 70%;
 }
 
 
 .form-control {
 margin-left: 430px;
-
-}
-
-.form-group {
 
 }
 
@@ -39,14 +27,20 @@ margin-left: 430px;
 
 .container-fluid {
 background-color:Black;
-color: white;
-font-family:Arial;
+color: lightblue;
+font-family:Arial Black;
 width:100%;
+border-bottom: 3px solid white;
+
+
+}
+
+.container{
+  margin-left: 10px;
 }
 
 #main-img  {
 width:;
-
   border-style: solid;
   border-width: thin;
   border-color: black;
@@ -59,12 +53,24 @@ width:;
 .jumbotron {
     background-size: auto;
     background-repeat: no-repeat;
-    text-shadow: black 0.3em 0.3em 0.3em;
-    max-width: 200%;
+    text-shadow: black 0.6em 0.6em 0.6em;
+    max-width: 100%;
+    width: 98.5%;
     text-decoration: none;
     height:50vh;
-    color: white;
+    border-bottom: 3px solid black;
+    font-family: Impact;
+margin-right: 15px;
 
+}
+
+.row {
+  margin: 0;
+  width: 103%;
+}
+
+.jumbotron a {
+  color: white;
 }
 
 .container-fluid: {
