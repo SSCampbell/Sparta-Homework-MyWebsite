@@ -58,6 +58,8 @@ width:;
     font-family: Impact;
     background-repeat: no-repeat;
     padding-top: 80px;
+
+    text-align: center;
 }
 
 ul {
@@ -67,18 +69,26 @@ ul {
 .li {
   display: inline;
   width: 25%;
-  margin-right: 10%;
+
+
+}
+
+.title a {
+      color: white;
 }
 
 .row {
   margin: 0;
-  width: 103%;
+  width: 100%;
 }
 
 .jumbotron a {
   color: white;
 }
 
+.R-content {
+
+}
 
 .jumbotron
 img#main-img {
