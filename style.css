@@ -1,20 +1,5 @@
 body{
-background-image: url("iron-man.jpg");
-
-margin: 0;
-    height: auto;
-       filter: alpha(opacity=50);
-}
-body
-
-.Main-Section {
-
-}
-
-
-.form-control {
-margin-left: 430px;
-
+background-color:white;
 }
 
 .navbar h1 {
@@ -31,6 +16,7 @@ color: lightblue;
 font-family:Arial Black;
 width:100%;
 border-bottom: 3px solid white;
+padding-right: 8px;
 
 
 }
