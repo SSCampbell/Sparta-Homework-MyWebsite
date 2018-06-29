@@ -9,6 +9,9 @@ background-color:white;
   color:white;
 }
 
+.Main-Section a.hover {
+  text-decoration-style: none;
+}
 
 .container-fluid {
 background-color:Black;
@@ -136,6 +139,6 @@ width: 100%
 }
 
 .footer {
-margin-top: -4.65%;
+margin-top: -6%;
 color: black;
 }
