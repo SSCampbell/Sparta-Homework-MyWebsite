@@ -15,8 +15,9 @@ background-color:Black;
 color: lightblue;
 font-family:Arial Black;
 width:100%;
-border-bottom: 3px solid white;
 padding-right: 8px;
+margin: 0;
+padding-bottom: 1%;
 
 
 }
@@ -24,15 +25,33 @@ padding-right: 8px;
 #img-left img {
   width: 100%;
   margin-top:30px;
-
+  padding: 2%;
 
 }
 
+#img-left {
+  padding-bottom: 2%;
+}
+
+#img-right img {
+  width: 100%;
+  margin-top:30px;
+padding-bottom: 5%;
+}
+
 .content h3 {
-  color: lightblue;
+  color: black;
   text-align: center;
-  border: 1px solid black;
+  font-style: 30px;
   margin-bottom: 10px;
+  font-family: Arial;
+  width: 100%;
+
+}
+
+.content {
+
+  padding: 10%;
 }
 
 #img-middle img {
@@ -41,7 +60,7 @@ padding-right: 8px;
 }
 
 .container{
-  margin-left: 10px;
+    margin: 0px;
 }
 
 #main-img  {
@@ -51,6 +70,13 @@ width:;
   border-color: black;
   border-radius: 100%
 
+}
+
+.intro {
+  color: black;
+  font-family: Arial;
+
+  padding-bottom: 7px;
 }
 
 .title {
@@ -78,7 +104,7 @@ ul {
 }
 
 .row {
-  margin: 0;
+
   width: 100%;
 }
 
@@ -87,13 +113,12 @@ ul {
 }
 
 .R-content {
-
+background-color: white;
+width: 100%
 }
 
-.jumbotron
-img#main-img {
-  opacity: 1;
-  filter: alpha(opacity=50);
+.content {
+  padding-bottom: 5%;
 }
 
 .main-nav {
@@ -103,4 +128,9 @@ img#main-img {
 
 
 
+}
+
+.footer {
+margin-top: -4.65%;
+color: black;
 }
