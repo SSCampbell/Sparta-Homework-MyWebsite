@@ -1,0 +1,144 @@
+body{
+background-color:white;
+}
+
+.navbar h1 {
+  font-size: 40px;
+  font-style: bold;
+  font-family:arial;
+  color:white;
+}
+
+.Main-Section a.hover {
+  text-decoration-style: none;
+}
+
+.container-fluid {
+background-color:Black;
+color: lightblue;
+font-family:Arial Black;
+width:100%;
+padding-right: 8px;
+margin: 0;
+padding-bottom: 1%;
+
+
+}
+
+#img-left img {
+  width: 100%;
+  margin-top:30px;
+  padding: 2%;
+
+}
+
+.text-main {
+  background-color: white;
+  color: black;
+}
+
+#img-left {
+  padding-bottom: 2%;
+}
+
+#img-right img {
+  width: 100%;
+  margin-top:30px;
+padding-bottom: 5%;
+}
+
+.content h3 {
+  color: black;
+  text-align: center;
+  font-style: 30px;
+  margin-bottom: 10px;
+  font-family: Arial;
+  width: 100%;
+
+}
+
+.content {
+
+  padding: 10%;
+}
+
+#img-middle img {
+  width: 100%;
+
+}
+
+.container{
+    margin: 0px;
+}
+
+#main-img  {
+width:;
+  border-style: solid;
+  border-width: thin;
+  border-color: black;
+  border-radius: 100%
+
+}
+
+.intro {
+  color: black;
+  font-family: Arial;
+
+  padding-bottom: 7px;
+}
+
+.title {
+    text-shadow: black 0.6em 0.6em 0.6em;
+    font-family: Impact;
+    background-repeat: no-repeat;
+    padding-top: 80px;
+
+    text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.li {
+  display: inline;
+  width: 25%;
+
+
+}
+
+.title a {
+      color: white;
+}
+
+.row {
+
+  width: 100%;
+}
+
+.jumbotron a {
+  color: white;
+}
+
+.R-content {
+background-color: white;
+width: 100%
+}
+
+.content {
+  padding-bottom: 5%;
+}
+
+.main-nav {
+
+    text-align: center;
+    margin-top: 200px;
+
+
+
+}
+
+.footer {
+margin-top: -6%;
+color: black;
+}
